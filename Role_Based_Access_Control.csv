@@ -1,0 +1,9 @@
+ROLE,ACCESS,,,Filter,How it works
+CAFE HEADS OR MODs,Based on filter granularity,,,Year,The current year (2023–2026). The default comparison is the previous year.
+Business Insights and Strategy,ALL,,,Months (from ? to),The months being measured. The same months are used in every year being compared.
+Junior Area Coordinators,Per area,,,Compare with,"One or more years (multi-select) compared against the selected Year. The first one listed drives the bridge, comp flags and insights."
+Area Coordinators,Per area,,,Quick range,"Full, Last 3M, Last month."
+Mangement Level 2,ALL,,,Store type,"Cafe, Kiosk or Head Office."
+Mangement Level 1,ALL,,,Comps,"COMP or NON-COMP, per the rule below."
+,,,,"Area, Region",From the branch record in list_branches.
+,,,,More filters,"Status, Province, City, Branch."
